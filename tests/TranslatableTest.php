@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\NovaTranslatable\Tests;
+namespace Kkhomeriki\NovaTranslatable\Tests;
 
 use Laravel\Nova\Fields\Field;
 use Laravel\Nova\Fields\Text;

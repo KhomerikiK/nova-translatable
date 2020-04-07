@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\NovaTranslatable\Exceptions;
+namespace Kkhomeriki\NovaTranslatable\Exceptions;
 
 use Exception;
 

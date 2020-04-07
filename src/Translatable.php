@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\NovaTranslatable;
+namespace Kkhomeriki\NovaTranslatable;
 
 use Closure;
 use Illuminate\Database\Eloquent\Model;

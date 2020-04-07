@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\NovaTranslatable\Tests;
+namespace Kkhomeriki\NovaTranslatable\Tests;
 
 use Orchestra\Testbench\TestCase as Orchestra;
 
